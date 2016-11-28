@@ -1,0 +1,12 @@
+hge_test/Debug/
+Debug/
+Release/
+ipch/
+/*.opensdf
+/*.pdb
+/*.suo
+/*.sdf
+/*.vc
+/*.db
+hge_test/*.user
+hge_test/*.txt
